@@ -5,3 +5,5 @@ sklearn
 ipykernel
 seaborn
 Pillow
+xgboost
+catboost
